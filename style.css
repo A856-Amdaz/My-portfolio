@@ -214,7 +214,11 @@
     padding: 4rem 2rem;
     background: var(--light-bg);
     text-align: center;
-    border-radius: 10px;
+    border-radius: 10px;    
+  }
+
+  .okay{
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
   .contact form {
